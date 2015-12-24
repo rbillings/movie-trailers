@@ -45,6 +45,9 @@ the_hunger = media.Movie("The Hunger",
                          "https://www.youtube.com/watch?v=l9IDoAPC6Ps",
                          "1983")
 
+# Stored list of movies
 movies = [blade_runner, donnie_darko, harold_maude,
           nightmare_christmas, princess_bride, the_hunger]
+
+# Converts movies to tiles and loads to page
 fresh_tomatoes.open_movies_page(movies)
