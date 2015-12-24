@@ -18,7 +18,7 @@ To clone open the working directory location and enter:
 ```
 Alternately you can download a .zip file here:
 ```
-    [https://github.com/rbillings/movie-trailers/archive/master.zip](https://github.com/rbillings/movie-trailers/archive/master.zip)
+    [https://github.com/rbillings/movie-trailers/archive/master.zip][zip]
 ```
 This will give you access to all of the required files and functionality for the website.
 
@@ -49,3 +49,4 @@ Instructions are for a OSX environment and may vary with different operating sys
 [nano]: https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004
 [python]: https://www.python.org/download/releases/2.7/
 [git-clone]: https://help.github.com/articles/cloning-a-repository/
+[zip]: https://github.com/rbillings/movie-trailers/archive/master.zip
