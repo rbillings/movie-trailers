@@ -49,4 +49,3 @@ Instructions are for a OSX environment and may vary with different operating sys
 [nano]: https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004
 [python]: https://www.python.org/download/releases/2.7/
 [git-clone]: https://help.github.com/articles/cloning-a-repository/
-
