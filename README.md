@@ -18,7 +18,7 @@ To clone open the working directory location and enter:
 ```
 Alternately you can download a .zip file here:
 ```
-    https://github.com/rbillings/movie-trailers/archive/master.zip
+    [https://github.com/rbillings/movie-trailers/archive/master.zip](https://github.com/rbillings/movie-trailers/archive/master.zip)
 ```
 This will give you access to all of the required files and functionality for the website.
 
