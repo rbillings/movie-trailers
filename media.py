@@ -12,4 +12,5 @@ class Movie():
         self.release_date = release_date
 
     def show_trailer(self):
+        # Plays YouTube trailers
         webbrowser.open(self.trailer_youtube_url)
