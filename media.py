@@ -2,7 +2,15 @@ import webbrowser
 
 
 class Movie():
-    # List of Movie instance variables and methods
+    """List of Movie instance variables and methods
+    
+    Attributes:
+        Movie title
+        Storyline
+        Poster Image
+        YouTube Trailer
+        Release Date
+    """
     def __init__(self, movie_title, movie_storyline, poster_image,
                  trailer_youtube, release_date):
         self.title = movie_title
