@@ -13,32 +13,37 @@ You will need to clone this repo to get started. If you do not know how to clone
 repository, check out this [help page][git-clone] from GitHub.
 
 To clone open the working directory location and enter:
+```
     $ git clone https://github.com/rbillings/cult-movies
-
+```
 Alternately you can download a .zip file here:
+```
     https://github.com/rbillings/movie-trailers/archive/master.zip
-
+```
 This will give you access to all of the required files and functionality for the website.
 
 ## Run the code
 Navigate to the working directory.To run the code:
 in a terminal:
+```
     $ python entertainment_center.py
-
+```
 in an IDE:
-    1. Open the "entertainment_center.py" file
-    2. Debug > Go or
-    3. View > Browser Preview or
-    4. Open the "fresh_tomatoes.html" file
-
+```
+1. Open the "entertainment_center.py" file
+2. Debug > Go or
+3. View > Browser Preview or
+4. Open the "fresh_tomatoes.html" file
+```
 Instructions are for a OSX environment and may vary with different operating systems.
 
 ## Bugs, Editing, License
 * If you find any bugs, please contact me!
 
-* To modify the code for your own website you will need to update the entertainment_center.py file.
+* To modify the code for your own website you will need to update the "entertainment_center.py" file.
 
 * License
+
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 [nano]: https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004
